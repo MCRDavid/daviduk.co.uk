@@ -1,2 +1,2 @@
 # daviduk.co.uk
-daviduk.co.uk homepage
+I think you meant [daviduk.uk](https://daviduk.uk)
